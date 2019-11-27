@@ -386,5 +386,5 @@ file `musonza_chat.php` as follows:
 
 Chat is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
 
-
+By Netkata
 
